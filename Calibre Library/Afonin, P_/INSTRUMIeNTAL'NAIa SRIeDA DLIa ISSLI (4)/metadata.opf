@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">257a14bc-2e74-42be-bb0c-22d3e1f801e4</dc:identifier>
+        <dc:title>ИНСТРУМЕНТАЛЬНАЯ СРЕДА ДЛЯ ИССЛЕДОВАНИЯ ЭВОЛЮЦИОННЫХ СТРАТЕГИЙ С ИСПОЛЬЗОВАНИЕМ НЕЙРОСЕТЕВЫХ МЕТАМОДЕЛЕЙ</dc:title>
+        <dc:creator opf:file-as="Афонин, П." opf:role="aut">Афонин, П.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.36.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-08T09:13:38+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Метамодели могут строитиь с помощью полиномов, &lt;span class="fontstyle0"&gt;кригинга моделей (лол, что за дичь) и нейронными сетями. &lt;/span&gt;&lt;/div&gt;
+
+Один из подходов основан на том, что сначала найти минимум по метамодели, а потом в этом минимуме запускать минимизируемую функцию. Далее эти точки использовать для обучения метамодели и тд.&lt;div&gt;
+
+&lt;span class="fontstyle0"&gt;Второй подход основан на концепции &lt;/span&gt;&lt;span class="fontstyle2"&gt;эволюционного контроля &lt;/span&gt;&lt;span class="fontstyle0"&gt;[5]. При вычислении приспособленности часть особей считается по метамодели, другая часть - на настоящей функции. &lt;/span&gt;&lt;/div&gt;
+
+&lt;b&gt;&lt;span class="fontstyle0"&gt;Эволюционный контроль на уровне особей.&lt;/span&gt; 
+&lt;/b&gt;&lt;br style="orphans: 2; text-align: -webkit-auto; widows: 2;"&gt;
+&lt;div&gt;
+
+&lt;span class="fontstyle0"&gt;В &lt;/span&gt;&lt;span class="fontstyle2"&gt;best &lt;/span&gt;&lt;span class="fontstyle0"&gt;стратегии [5], λ’ = λ потомков рассчитываются с помощью метамодели и лучшие λ* рассчитываются&lt;br&gt;с помощью ФП. После обновления метамодели оставшиеся λ’ - λ* потомков снова рассчитываются по&lt;br&gt;метамодели. Лучшие μ особей из λ потомков становятся родителями следующего поколения&lt;/span&gt;  [нужно самому почитать 5-ую ссылку в статье].&lt;br style="orphans: 2; text-align: -webkit-auto; widows: 2;"&gt;
+
+&lt;/div&gt;&lt;div&gt;И дальше описывается механизмы в матлабе. Как-то слабо, в общем то&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:language>ru</dc:language>
+        <dc:subject>метамодели</dc:subject>
+        <dc:subject>нейронные сети</dc:subject>
+        <meta content="{&quot;Афонин, П.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-12-22T13:31:03.523000+00:00" name="calibre:timestamp"/>
+        <meta content="ИНСТРУМЕНТАЛЬНАЯ СРЕДА ДЛЯ ИССЛЕДОВАНИЯ ЭВОЛЮЦИОННЫХ СТРАТЕГИЙ С ИСПОЛЬЗОВАНИЕМ НЕЙРОСЕТЕВЫХ МЕТАМОДЕЛЕЙ" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Обложка" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f031e6d-dc9f-426a-b23b-8aefce7c417d</dc:identifier>
+        <dc:title>Training A Neural Network By Simulation For Dispatching Problems</dc:title>
+        <dc:creator opf:file-as="Pierreval, H." opf:role="aut">Pierreval, H.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.36.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-12-09T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Статья того же Pierreval, только более ранняя. Случайно выбрали 
+
+
+&lt;span class="fontstyle0"&gt;198&lt;/span&gt; примеров для обучения. &lt;br style="orphans: 2; text-align: -webkit-auto; widows: 2;"&gt;
+&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="DOI">10.1109/CIM.1992.639120</dc:identifier>
+        <dc:language>ru</dc:language>
+        <dc:subject>метамодели</dc:subject>
+        <dc:subject>нейронные сети</dc:subject>
+        <meta content="{&quot;Pierreval, H.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-12-22T13:25:23.755000+00:00" name="calibre:timestamp"/>
+        <meta content="Training A Neural Network By Simulation For Dispatching Problems" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Обложка" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3090193-5951-456c-a3df-042f19541996</dc:identifier>
+        <dc:title>A Metamodeling Approach Based on Neural Networks</dc:title>
+        <dc:creator opf:file-as="Pierreval, H." opf:role="aut">Pierreval, H.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.36.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-11-30T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;В статье подробно рассматривается метамоделирование как процесс. Показывает, что модель - это представление реального мира, а метамодель - представление модели.&lt;div&gt;Работает в случае, если работа модели долго идет. Нейронные сети могут работать быстрее, поэтому норм.&lt;/div&gt;&lt;div&gt;Можно генерить образцы для нейронной сети случайно, а можно провести дизайн эксперимента [32].&lt;/div&gt;&lt;div&gt;Задача довольно простая, модель не динамическая&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:language>ru</dc:language>
+        <dc:subject>метамодели</dc:subject>
+        <dc:subject>нейронные сети</dc:subject>
+        <meta content="{&quot;Pierreval, H.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-12-22T13:16:27.230000+00:00" name="calibre:timestamp"/>
+        <meta content="A Metamodeling Approach Based on Neural Networks" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Обложка" type="cover"/>
+    </guide>
+</package>
