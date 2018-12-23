@@ -7,11 +7,12 @@
         <dc:creator opf:file-as="El-Beltagy, M.; Nair, P." opf:role="aut">El-Beltagy, M.; Nair, P.</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.36.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1999-12-01T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Снова рассматривают кригинг.&lt;div&gt;Сначала сортируют популяции по значению фитнеса в порядке убывания. &lt;/div&gt;&lt;div&gt;Потом смотрят первые NP * fitfact точек и смотрят, не дальше ли они некоторой константы от ближайшей точки, по которой строилась метамодель. Если дальше, то добавляем эту точку для обучения метамодели. Зануляют D этой точки&lt;/div&gt;&lt;div&gt;Сортируют точки по дистанциям (D) в порядке убывания.&lt;/div&gt;&lt;div&gt;Потом смотрят первые NP * doefac точек. Если расстояние больше e, то добавляют эту точку в обучающую выборку для модели.&lt;/div&gt;&lt;div&gt;В общем то говоря, сначала берут точки, которые дали хорошее значение фитнесс функции и при этом находятся далеко от примеров обучающей выборки. А после берут точки, которые очень далеко были от примеров обучающей выборки.&lt;/div&gt;&lt;div&gt;И так они постоянно обновляют метамодель в процессе поиска минимума.&lt;/div&gt;&lt;div&gt;Чтоб не потерять лучшую точку, используют элитизм.&lt;/div&gt;&lt;div&gt;В конце статьи показывают результаты моделирования. Согласно результатам, использование метамодели ускоряет алгоритм в том смысле, что при одинаковом количестве вызовов функции, минимум находится быстрее с метамоделью, чем с обучным алгоритмом.&lt;/div&gt;&lt;div&gt;В общем, классная статья.&lt;/div&gt;&lt;/div&gt;</dc:description>
         <dc:language>ru</dc:language>
         <dc:subject>метамодели</dc:subject>
         <dc:subject>нейронные сети</dc:subject>
         <meta content="{&quot;El-Beltagy, M.; Nair, P.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2018-12-22T16:23:28.689000+00:00" name="calibre:timestamp"/>
+        <meta content="2018-12-22T16:23:28+00:00" name="calibre:timestamp"/>
         <meta content="Metamodeling Techniques For Evolutionary Optimization of Computationally Expensive Problems: Promises and Limitations." name="calibre:title_sort"/>
     </metadata>
     <guide>

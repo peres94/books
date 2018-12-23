@@ -7,11 +7,21 @@
         <dc:creator opf:file-as="Emmerich, M.;Giotis, A;" opf:role="aut">Emmerich, M.;Giotis, A;</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.36.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2002-09-19T09:31:20+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span class="fontstyle0"&gt;Рассматривают MAES&lt;/span&gt; (
+
+
+&lt;span class="fontstyle0"&gt;Metamodel–Assisted Evolution Strategies&lt;/span&gt; 
+&lt;br style="orphans: 2; text-align: -webkit-auto; widows: 2;"&gt;
+) стратегию. &lt;br style="orphans: 2; text-align: -webkit-auto; widows: 2;"&gt;
+&lt;div&gt;Для селекции используют критерий S_c = f^(x) - w * sqrt(mse(x))&lt;/div&gt;&lt;div&gt;"A fitness criterion based on both the&lt;/div&gt;
+
+&lt;span class="fontstyle0"&gt;estimated value and the estimated local variance of the prediction model is used&lt;br&gt;by setting up a search criterion to estimate the potential outcome of a computer&lt;br&gt;experiment&lt;/span&gt; "&lt;div&gt;Как считать mse - непонятно.&lt;/div&gt;&lt;div&gt; Используют 15 потомков, из илиты каждый живет 5 итераций, генерируется 100 образцов.&lt;/div&gt;&lt;div&gt;Из них s выбираются лучших, и только они вычисляются.&lt;/div&gt;&lt;div&gt;Метамодель использовать лучше.&lt;/div&gt;&lt;div&gt;Выигрывает как раз эта стратегия, под названием &lt;span class="fontstyle0"&gt;MAES-KRIG-MSE.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</dc:description>
         <dc:language>ru</dc:language>
         <dc:subject>метамодели</dc:subject>
         <dc:subject>нейронные сети</dc:subject>
         <meta content="{&quot;Emmerich, M.;Giotis, A;&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2018-12-22T13:56:19.891000+00:00" name="calibre:timestamp"/>
+        <meta content="2018-12-22T13:56:19+00:00" name="calibre:timestamp"/>
         <meta content="Metamodel–Assisted Evolution Strategies" name="calibre:title_sort"/>
     </metadata>
     <guide>
