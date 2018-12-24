@@ -20,7 +20,7 @@ network_timeout = 5
  
 # library path
 # Путь к директории в которой хранятся книги
-library_path = u'C:\\Users\\User\\Desktop\\Calibre Portable\\Calibre Library'
+library_path = u'C:\\Users\\peres\\Desktop\\Calibre Portable\\books\\Calibre Library'
  
 # language
 # Язык для отображения пользовательского интерфейса
